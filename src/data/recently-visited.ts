@@ -17,6 +17,6 @@ export const projects = [
   {
     name: "Testla",
     url: "#",
-    icon: "/tesla.jpg",
+    icon: "/Tesla.jpg",
   },
 ];

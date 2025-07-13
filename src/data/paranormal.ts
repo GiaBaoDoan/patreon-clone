@@ -12,7 +12,7 @@ export const Paranamon: Creator[] = [
     id: "2",
     name: "Code & Coffee",
     description: "Helping devs build cool stuff.",
-    image: "/Facetune_11-10-2023-19-11-00.jpg",
+    image: "/Facetune_11-10-2023-19-11-00.JPG",
   },
   {
     id: "3",
